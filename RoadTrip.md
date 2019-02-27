@@ -1,4 +1,4 @@
-# 很惭愧，就做一点微小的工作，谢谢大家！
+# 很惭愧，就做了一点微小的工作，谢谢大家！
 
 ![alt text](resources/NART_Podcast-03.png)
 
