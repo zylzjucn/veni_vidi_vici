@@ -22,6 +22,6 @@
 |日|14|Blue Ridge, Shenandoah|Washington|5||1|1|WA|
 |一|15|Washington|Phi|2.5||1||MD, DE|
 |二|16|Phi|Phi||||||
-|三|17|New Jersey, NY|NY|2||2||NJ, NY|
+|三|17|New Jersey, NY|NJ|2||2||NJ, NY|
 |四|18|Plymouth, Boston|Boston|4||1||CT, RI, MA|
 |五|19|Back (4pm)|85 Catania||||||
