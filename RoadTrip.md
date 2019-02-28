@@ -14,14 +14,14 @@
 |六|6|Rocky Mountain|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
 |一|8|Badland|Presho|2.5|1||1||
-|二|9||Chicago|11||1||MN, WI|
-|三|10|Chicago, Route 66 end|Detroit|4.5||1||IL|
-|四|11|Detroit|Detroit|4.5|1|1||IN, MI|
-|五|12|Cleveland, Cuyahoga, Akron|Akron|3.5||1|1|OH|
-|六|13|Lexington|Lexington|6||||WV, VA|
-|日|14|Blue Ridge, Shenandoah|Washington|5||1|1|WA|
-|一|15|Washington|Phi|2.5||1||MD, DE|
-|二|16|Phi|Phi||||||
-|三|17|New Jersey, NY|NJ|2||2||NJ, NY|
-|四|18|Plymouth, Boston|Boston|4||1||CT, RI, MA|
-|五|19|Back (4pm)|85 Catania||||||
+|二|9||Chicago|11||1||MN, WI, IL|
+|三|10|Chicago, Route 66 end|Detroit|4.5|1|1||IN, MI|
+|四|11|Cleveland, Cuyahoga, Akron|Akron|3.5||2|1|OH|
+|五|12|Lexington|Lexington|6||||WV, VA|
+|六|13|Blue Ridge, Shenandoah|Washington|5||1|1|WA|
+|日|14|Washington|Phi|2.5||1||MD, DE|
+|一|15|Phi|Phi||||||
+|二|16|NY|NJ|2||2||NJ, NY|
+|三|17|NY|NJ||||||
+|四|18|West Point, Rockfeller, Plymouth|Boston|4||1||CT, RI, MA|
+|五|19|Boston|85 Catania||||||
