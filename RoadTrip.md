@@ -13,9 +13,9 @@
 |五|5|Black Canyon, Denver|Denver|4||1|1||
 |六|6|Rocky Mountain|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
-|一|8|Badland|Rapid city|2|||1||
-|二|9||Milwaukee|12|1|1||MN, WI|
-|三|10|Chicago, Route 66 end|Chicago|4.5||1||IL|
+|一|8|Badland|Presho|2.5|1||1||
+|二|9||Chicago|11||1||MN, WI|
+|三|10|Chicago, Route 66 end|Detroit|4.5||1||IL|
 |四|11|Detroit|Detroit|4.5|1|1||IN, MI|
 |五|12|Cleveland, Cuyahoga, Akron|Akron|3.5||1|1|OH|
 |六|13|Lexington|Lexington|6||||WV, VA|
