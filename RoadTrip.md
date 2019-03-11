@@ -17,7 +17,7 @@
 |二|9||Chicago|11||1||MN, WI, IL|
 |三|10|Chicago, Route 66 end|Detroit|4.5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Akron|3.5||2|1|OH|
-|五|12||F Lexington|6||||WV, VA|
+|五|12||Fake Lexington|6||||WV, VA|
 |六|13|Blue Ridge, Shenandoah|Washington|5||1|1|WA|
 |日|14|National mall, Congress, White house, Linken Memorial, CIA|WA|2.5||1|||
 |一|15|Phi|Phi|||||MD, DE|
