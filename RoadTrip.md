@@ -25,3 +25,5 @@
 |三|17|NY|NJ||||||
 |四|18|West Point, Rockfeller, Plymouth, Quincy|Boston|4||1||CT, RI, MA|
 |五|19|Lexington|85 Catania||||||
+
+> 我才发现我们参观林肯纪念堂与他遇刺，是同一天。不是刻意安排的。Respect
