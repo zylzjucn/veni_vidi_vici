@@ -19,7 +19,7 @@
 |四|11|Detroit|Detroit|5|1|2||MI|
 |五|12|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
 |六|13|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
-|日|14|National mall, Congress, White house, Linken Memorial Hall, CIA|Washington|||1|||
+|日|14|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
 |一|15|Independence Hall, Upenn museum|Phi|2.5||1||MD, DE|
 |二|16|NY|NJ|2||2||NJ, NY|
 |三|17|NY|NJ||||||
