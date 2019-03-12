@@ -27,7 +27,7 @@
 |五|19|Lexington|85 Catania||||||
 
 > *已预定酒店*：
-> LV
+> Bakersfield, LV
 
 > *提前订票*：
 > 华盛顿国会
