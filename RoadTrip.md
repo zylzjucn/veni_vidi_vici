@@ -11,7 +11,7 @@
 |三|3|Capitol Reef, Canyon Lands|Moab|4|1||2||
 |四|4|Arch|Grand Junction|2|||1|CO|
 |五|5|Black Canyon, Denver|Denver|4||1|1||
-|六|6|Rocky Mountain|Denver|3|||1||
+|六|6|Rocky Mountain, Pike|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
 |一|8|Badland|Presho|2.5|1||1||
 |二|9||Chicago|11||1||MN, WI, IL|
