@@ -21,10 +21,10 @@
 |六|13|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
 |日|14|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
 |一|15|Independence Hall, Upenn museum|Phi|2.5||1||MD, DE|
-|二|16|Statue Liberty, Wall street|NY|2||2||NJ, NY|
-|三|17|Metropolitan museum, Central park|NY||||||
-|四|18|West Point, Rockfeller, Plymouth, Quincy|Boston|4||1||CT, RI, MA|
-|五|19|Lexington|85 Catania||||||
+|二|16|Statue Liberty, Wall street, 911|NY|2||2||NJ, NY|
+|三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
+|四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
+|五|19|MIT, Harvard, Quincy|85 Catania||||||
 
 > *已预定酒店*：
 > Bakersfield, LV
