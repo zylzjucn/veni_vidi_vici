@@ -18,8 +18,8 @@
 |三|10|Chicago, Route 66 end|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
 |五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
-|六|13|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
-|日|14|Penn Museum|Phi|2.5||1||MD, DE|
+|六|13|National mall, Congress, White house, CIA|Washington|||1|||
+|日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE|
 |一|15|Independence Hall|NY|2||2||NJ, NY|
 |二|16|Statue Liberty, Wall street, 911|NY|2|||||
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
@@ -38,11 +38,22 @@
 |Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
 |Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8)|
 |Black Canyon|||||
+|Rocky Mountain|||||
+|Wind Cave|||||
+|Rushmore|||||
+|Badlands|||||
+|Cuyahoga|||||
+|Blue ridge|||||
+|Shenandoah|||||
+|National mall|||||
+|Congress|||||
+|Lincoln Memorial Hall|||||
+|Penn Museum|No Monday||||
+|Independence Hall|||||
+|Statue Liberty|||||
+|West Point|||||
 ||||||
-||||||
-||||||
-||||||
-||||||
+
 
 
 
