@@ -10,7 +10,7 @@
 |二|2|Bryce|Torrey|3|||1||
 |三|3|Capitol Reef, Canyon Lands|Moab|4|1||2||
 |四|4|Arch|Grand Junction|2|||1|CO|
-|五|5|Black Canyon, Denver|Denver|4||1|1||
+|五|5|Black Canyon, Denver|Denver|5||1|1||
 |六|6|Rocky Mountain, Pike|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
 |一|8|Badland(DT)|Sioux City|9|1||1|NE, IA|
@@ -37,7 +37,7 @@
 |Capitol Reef|8-4:30|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=192)|
 |Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
 |Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8), crowded|
-|Black Canyon|||||
+|Black Canyon||3|No|[Notes](http://travel.sina.com/article/toutiao/2309404060995399098072)|
 |Rocky Mountain|||||
 |Wind Cave|||||
 |Rushmore|||||
