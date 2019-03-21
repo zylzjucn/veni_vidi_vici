@@ -13,18 +13,21 @@
 |五|5|Black Canyon, Denver|Denver|4||1|1||
 |六|6|Rocky Mountain, Pike|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
-|一|8|Badland|Presho|2.5|1||1||
-|二|9||Chicago|11||1||MN, WI, IL|
-|三|10|Chicago, Route 66 end|Chicago|||||IN|
-|四|11|Detroit|Detroit|5|1|2||MI|
-|五|12|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
-|六|13|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
+|一|8|Badland(DT)|Sioux City|9|1||1|NE, IA|
+|二|9|Chicago|Chicago|8||1||IL|
+|三|10|Chicago, Route 66 end|Detroit|5|1|1||IN, MI|
+|四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
+|五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
+|六|13|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
 |日|14|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
 |一|15|Independence Hall, Upenn museum|Phi|2.5||1||MD, DE|
 |二|16|Statue Liberty, Wall street, 911|NY|2||2||NJ, NY|
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
+
+(DT: Drive Through)
+
 
 > *已预定酒店*：
 > Bakersfield, LV
