@@ -49,7 +49,7 @@
 |Congress|||||
 |Lincoln Memorial Hall|||||
 |Penn Museum|No Monday||||
-|Independence Hall|||||
+|Independence Hall|9am-6pm|9am|N/A|N/A|
 |Statue Liberty|||||
 |West Point|||||
 ||||||
