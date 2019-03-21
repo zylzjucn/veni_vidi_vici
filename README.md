@@ -6,7 +6,7 @@
 |--|---|----|---|---|----|-------|------|--|
 |六|30|Sequoia|Bakersfield|4.5|||1|CA|
 |日|31|Death Valley|LV|6.5|||1|NV|
-|一|1|Zion|Cedar city|2.5|||1|AZ, UT|
+|一|1|Zion|Kanab|2.5|||1|AZ, UT|
 |二|2|Bryce|Torrey|3|||1||
 |三|3|Capitol Reef, Canyon Lands|Moab|4|1||2||
 |四|4|Arch|Grand Junction|2|||1|CO|
@@ -20,29 +20,31 @@
 |五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
 |六|13|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
 |日|14|Penn Museum|Phi|2.5||1||MD, DE|
-|一|15|Independence Hall|Phi|2.5|||||
-|二|16|Statue Liberty, Wall street, 911|NY|2||2||NJ, NY|
+|一|15|Independence Hall|NY|2||2||NJ, NY|
+|二|16|Statue Liberty, Wall street, 911|NY|2|||||
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
 
 > *(DT: Drive Through)*
 
-|景点|开放时间|游览时间|需要提前订票|
-|--|---|----|---|
-|Sequoia|24h||No|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|景点|开放时间|游览时间|需要提前订票|备注|
+|--|---|----|---||
+|Sequoia|24h||No||
+|Death Valley|8-5|5|No||
+|Zion|24h||No||
+|Bryce|24h|4|No||
+|Capitol Reef|8-4:30|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=192)|
+|Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
+|Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8)|
+|Black Canyon|||||
+||||||
+||||||
+||||||
+||||||
+||||||
+
+
 
 
 
