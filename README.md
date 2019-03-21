@@ -36,7 +36,7 @@
 |Bryce|24h|4|No||
 |Capitol Reef|8-4:30|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=192)|
 |Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
-|Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8)|
+|Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8), crowded|
 |Black Canyon|||||
 |Rocky Mountain|||||
 |Wind Cave|||||
