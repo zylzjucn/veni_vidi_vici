@@ -21,7 +21,7 @@
 |六|13|National mall, Congress, White house, CIA|Washington|||1|||
 |日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE|
 |一|15|Independence Hall|NY|2||2||NJ, NY|
-|二|16|Statue Liberty, Wall street, 911|NY|2|||||
+|二|16|Statue Liberty, Wall street, 911|NY||||||
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
