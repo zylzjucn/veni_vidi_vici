@@ -1,7 +1,5 @@
 # 2019CrossingUS
 
-# 很惭愧，就做了一点微小的工作，谢谢大家！
-
 ![alt text](resources/NART_Podcast-03.png)
 
 |周|日期|主题|住宿|路程|时区|NBA主场|国家公园|州|
