@@ -19,8 +19,8 @@
 |四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
 |五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
 |六|13|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
-|日|14|National mall, Congress, White house, Lincoln Memorial Hall, CIA|Washington|||1|||
-|一|15|Independence Hall, Upenn museum|Phi|2.5||1||MD, DE|
+|日|14|Penn Museum|Phi|2.5||1||MD, DE|
+|一|15|Independence Hall|Phi|2.5|||||
 |二|16|Statue Liberty, Wall street, 911|NY|2||2||NJ, NY|
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
