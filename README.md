@@ -26,7 +26,23 @@
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
 
-(DT: Drive Through)
+> *(DT: Drive Through)*
+
+|景点|开放时间|游览时间|需要提前订票|
+|Sequoia|24h||No|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
 
 
 > *已预定酒店*：
