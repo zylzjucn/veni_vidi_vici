@@ -38,7 +38,7 @@
 |Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
 |Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8), crowded|
 |Black Canyon||3|No|[Notes](http://travel.sina.com/article/toutiao/2309404060995399098072)|
-|Rocky Mountain|||||
+|Rocky Mountain|||No|[Notes](http://www.meilvtong.com/viewthread.php?tid=175), Road Close|
 |Wind Cave|||||
 |Rushmore|||||
 |Badlands|||||
@@ -49,7 +49,7 @@
 |Congress|||||
 |Lincoln Memorial Hall|||||
 |Penn Museum|No Monday||||
-|Independence Hall|9am-6pm|9am|N/A|N/A|
+|Independence Hall|9-6|9am|N/A|N/A|
 |Statue Liberty|||||
 |West Point|||||
 ||||||
