@@ -42,7 +42,7 @@
 |Rushmore|||||
 |Badlands|||||
 |Cuyahoga|||||
-|Blue ridge|||||
+|Blue ridge||||[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|24h|4|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National mall|||||
 |Congress|||||
