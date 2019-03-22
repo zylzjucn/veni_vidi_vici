@@ -44,7 +44,7 @@
 |Badlands|||||
 |Cuyahoga|||||
 |Blue ridge|||||
-|Shenandoah|||||
+|Shenandoah|24h|||[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National mall|||||
 |Congress|||||
 |Lincoln Memorial Hall|||||
