@@ -16,9 +16,9 @@
 |一|8|Badlands|Sioux City|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
-|四|11|Cleveland, Cuyahoga, Akron|Parkersburg|5||1|2|OH, WV|
-|五|12|Blue Ridge|Afton|7|||1|VA|
-|六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1||WA|
+|四|11|Cleveland, Cuyahoga, Akron|Parkersburg|5||1|1|OH, WV|
+|五|12|Blue Ridge|Afton|7||||VA|
+|六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE, PA|
 |一|15|Independence Hall, |NY|2||2||NJ, NY|
 |二|16|Statue Liberty, Wall street, 911|NY||||||
