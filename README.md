@@ -17,10 +17,10 @@
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
-|五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
-|六|13|National mall, Congress, White house, CIA|Washington|||1|||
+|五|12|Blue Ridge|Afton|7|||1|VA|
+|六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1||WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE|
-|一|15|Independence Hall|NY|2||2||NJ, NY|
+|一|15|Independence Hall, |NY|2||2||NJ, NY|
 |二|16|Statue Liberty, Wall street, 911|NY||||||
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
@@ -42,8 +42,8 @@
 |Rushmore|||||
 |Badlands|||||
 |Cuyahoga|||||
-|Blue ridge|24h|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
-|Shenandoah|24h|4||[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
+|Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
+|Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National mall|||||
 |Congress|||||
 |Lincoln Memorial Hall|||||
