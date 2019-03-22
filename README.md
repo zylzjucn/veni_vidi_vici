@@ -15,7 +15,7 @@
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
 |一|8|Badlands|Sioux City|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
-|三|10|Chicago, Route 66 end|Detroit|5|1|1||IN, MI|
+|三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
 |五|12|Blue Ridge, Shenandoah|Washington|6|||1|VA, WA|
 |六|13|National mall, Congress, White house, CIA|Washington|||1|||
