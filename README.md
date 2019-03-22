@@ -38,9 +38,9 @@
 |Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8), crowded|
 |Black Canyon||3|No|[Notes](http://travel.sina.com/article/toutiao/2309404060995399098072)|
 |Rocky Mountain|||No|[Notes](http://www.meilvtong.com/viewthread.php?tid=175), Road Close|
-|Wind Cave|||||
+|Wind Cave|8-4:30|1.5|||
 |Rushmore|||||
-|Badlands|||||
+|Badlands|9-17||||
 |Cuyahoga|||||
 |Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
