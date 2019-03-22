@@ -13,7 +13,7 @@
 |五|5|Black Canyon, Denver|Denver|5||1|1||
 |六|6|Rocky Mountain, Pike|Denver|3|||1||
 |日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
-|一|8|Badland(DT)|Sioux City|9|1||1|NE, IA|
+|一|8|Badland|Sioux City|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 end|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Morgantown|6||1|1|OH,PA, WV|
@@ -26,7 +26,6 @@
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
 
-> *(DT: Drive Through)*
 
 |景点|开放时间|游览时间|需要提前订票|备注|
 |--|---|----|---|-|
@@ -44,7 +43,7 @@
 |Badlands|||||
 |Cuyahoga|||||
 |Blue ridge|||||
-|Shenandoah|24h|||[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
+|Shenandoah|24h|24h|4|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National mall|||||
 |Congress|||||
 |Lincoln Memorial Hall|||||
