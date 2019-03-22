@@ -70,7 +70,7 @@
 > * 殷 13-19
 
 
-> 我才发现我们参观林肯纪念堂与他遇刺，是同一天。不是刻意安排的。Respect
+> 我才发现我们参观林肯纪念堂与他遇刺，是同一天。Respect
 
 
 ![alt text](resources/title.png)
