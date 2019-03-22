@@ -42,8 +42,8 @@
 |Rushmore|||||
 |Badlands|||||
 |Cuyahoga|||||
-|Blue ridge||||[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
-|Shenandoah|24h|24h|4|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
+|Blue ridge|24h|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
+|Shenandoah|24h|4||[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National mall|||||
 |Congress|||||
 |Lincoln Memorial Hall|||||
