@@ -20,7 +20,7 @@
 |五|12|Blue Ridge|Afton|7||||VA|
 |六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE, PA|
-|一|15|Independence Hall, |NY|2||2||NJ, NY|
+|一|15|Independence Hall, MOMA, Time Square, Empire|NY|2||2||NJ, NY|
 |二|16|Statue Liberty, Wall street, 911|NY||||||
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
