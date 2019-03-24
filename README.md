@@ -44,7 +44,7 @@
 |Cuyahoga|||||
 |Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
-|National mall|||||
+|National hall|||||
 |Congress|||||
 |Lincoln Memorial Hall|||||
 |Penn Museum|No Monday||||
