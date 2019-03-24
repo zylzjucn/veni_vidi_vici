@@ -7,7 +7,7 @@
 |六|30|Sequoia|Bakersfield|4.5|||1|CA|2620 Buck Owens Blvd, Bakersfield, CA 93308|
 |日|31|Death Valley|LV|6.5|||1|NV|3801 S Las Vegas Blvd, Las Vegas, NV 89109|
 |一|1|Zion|Kanab|2.5|||1|AZ, UT|223 West Center Street Kanab, UT 84741 United States|
-|二|2|Bryce|Torrey|3|||1||292 West Main Street Bicknell, UT 84715 United States|
+|二|2|Bryce|Bicknell|3|||1||292 West Main Street Bicknell, UT 84715 United States|
 |三|3|Capitol Reef, Canyon Lands|Moab|4|1||2||
 |四|4|Arches|Grand Junction|2|||1|CO|
 |五|5|Black Canyon, Denver|Denver|5||1|1||
