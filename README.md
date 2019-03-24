@@ -11,8 +11,8 @@
 |三|3|Capitol Reef, Canyon Lands|Moab|4|1||2||
 |四|4|Arches|Grand Junction|2|||1|CO|
 |五|5|Black Canyon, Denver|Denver|5||1|1||
-|六|6|Rocky Mountain, Pike|Denver|3|||1||
-|日|7|Wind Cave, Rushmore|Rapid city|6.5|||1|WY, SD|
+|六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|
+|日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|
 |一|8|Badlands|Sioux City|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
