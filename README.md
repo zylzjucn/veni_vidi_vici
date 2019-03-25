@@ -1,5 +1,5 @@
 # 2019CrossingUS
-
+![alt text](/resources/logo.png)
 ![alt text](resources/NART_Podcast-03.png)
 
 |周|日期|主题|住宿|路程|时区|NBA主场|国家公园|州|酒店|
