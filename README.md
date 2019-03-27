@@ -21,8 +21,8 @@
 |六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Phi|2.5||1||MD, DE, PA|
 |一|15|Independence Hall, MOMA, Time Square, Empire|NY|2||2||NJ, NY|219 Brunswick Street 1, Jersey City, NJ 07302, United States|
-|二|16|Statue Liberty, Wall street, 911|NY|||||""|
-|三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY|||||""|
+|二|16|Statue Liberty, Wall street, 911|NY||||||""|
+|三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|NY||||||""|
 |四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
 |五|19|MIT, Harvard, Quincy|85 Catania||||||
 
