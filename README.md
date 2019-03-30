@@ -45,24 +45,16 @@
 |Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National hall|||||
-|Congress|||||
+|Congress|||Yes||
 |Lincoln Memorial Hall|||||
 |Penn Museum|No Monday||||
-|Independence Hall|9-6|9am|N/A|N/A|
-|Statue Liberty|||||
-|West Point|||||
+|Independence Hall|9-6|9am|No|N/A|
+|Statue Liberty|||Yes||
+|West Point|||Yes||
 ||||||
 
 
 
-
-
-
-> *已预定酒店*：
-> Bakersfield, LV
-
-> *提前订票*：
-> 华盛顿国会，自由女神像轮渡，西点军校
 
 > *景点查看及酒店预定分配*：
 > * 朱 30-5
