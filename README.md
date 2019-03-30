@@ -29,7 +29,7 @@
 
 |景点|开放时间|游览时间|需要提前订票|备注|
 |--|---|----|---|-|
-|Sequoia|24h||No||
+|Sequoia|24h||No|[Notes](http://www.meilvtong.com/viewthread.php?tid=183)|
 |Death Valley|8-5|5|No||
 |Zion|24h||No||
 |Bryce|24h|4|No||
