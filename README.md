@@ -2,6 +2,22 @@
 
 ![alt text](resources/NART_Podcast-03.png)
 
+# 概述/Overview
+
+起点/Start:
+终点/End:
+时间/Duration:
+预计总里程/Estimated Mileage:
+最西点/Westernmost：Fremont
+最东点/Easternmost：Plymouth
+最南点/Southernmost：Bakersfield
+最北点/Northernmost：Rapid City
+
+
+
+
+
+
 |周|日期|主题|住宿|路程|时区|NBA主场|国家公园|州|酒店|
 |--|---|----|---|---|----|-------|------|--|----|
 |六|30|Sequoia|Bakersfield|4.5|||1|CA|2620 Buck Owens Blvd, Bakersfield, CA 93308|
