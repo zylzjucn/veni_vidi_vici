@@ -6,9 +6,9 @@
 |--|---|----|---|---|----|-------|------|--|----|
 |六|30|Sequoia|Bakersfield|4.5|||1|CA|2620 Buck Owens Blvd, Bakersfield, CA 93308|
 |日|31|Death Valley|LV|6.5|||1|NV|3801 S Las Vegas Blvd, Las Vegas, NV 89109|
-|一|1|Zion|Kanab|2.5|||1|AZ, UT|223 West Center Street Kanab, UT 84741 United States|
+|一|1|Zion|Kanab|2.5|1||1|AZ, UT|223 West Center Street Kanab, UT 84741 United States|
 |二|2|Bryce|Bicknell|3|||1||292 West Main Street Bicknell, UT 84715 United States|
-|三|3|Capitol Reef, Canyon Lands|Moab|4|1||2|UT|889 N Main St Moab 84532 UT US|
+|三|3|Capitol Reef, Canyon Lands|Moab|4|||2|UT|889 N Main St Moab 84532 UT US|
 |四|4|Arches|Grand Junction|2|||1|CO|751 Horizon Dr Grand Junction 81506 CO US|
 |五|5|Black Canyon, Denver|Denver|5||1|1||
 |六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|
@@ -32,7 +32,7 @@
 |Sequoia|24h||No|[Notes](http://www.meilvtong.com/viewthread.php?tid=183)|
 |Death Valley|8-5|5|No||
 |Zion|24h||No||
-|Bryce|24h|4|No||
+|Bryce|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=49)|
 |Capitol Reef|8-4:30|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=192)|
 |Canyon Lands|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=170)|
 |Arches|8/9-4/4:30|6|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=8), crowded|
