@@ -27,7 +27,7 @@
 |三|3|Capitol Reef, Canyon Lands|Moab|4|||2||889 N Main St Moab 84532 UT US|
 |四|4|Arches|Grand Junction|2|||1|CO|751 Horizon Dr Grand Junction 81506 CO US|
 |五|5|Black Canyon, Denver|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
-|六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|
+|六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
 |日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|
 |一|8|Badlands|Sioux City|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
