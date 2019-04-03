@@ -4,22 +4,39 @@
 
 # 概述/Overview
 
-起点/Start:
-终点/End:
-时间/Duration:
-预计总里程/Estimated Mileage:
+起点/Start: Fremont, CA
+
+终点/End: Boston, MA
+
+时间/Duration: 03.30 - 04.19 2019
+
+预计总里程/Estimated Mileage: > 4946miles
+
 最西点/Westernmost：Fremont
+
 最东点/Easternmost：Plymouth
+
 最南点/Southernmost：Bakersfield
+
 最北点/Northernmost：Rapid City
 
+最大经度跨越/Maximum Longtitude Span: 51.3
 
+最大维度跨越/Maximum Latitude Span: 8.7
+
+时区跨越/Time Zone Span: +3
+
+国家公园/National Parks: 13
+
+州/States: 25
+
+美职篮主场/NBA Homes: 8
 
 
 
 
 |周|日期|主题|住宿|路程|时区|NBA主场|国家公园|州|酒店|
-|--|---|----|---|---|----|-------|------|--|----|
+|--|---|----|---|---|----|-------|------|--|---|
 |六|30|Sequoia|Bakersfield|4.5|||1|CA|2620 Buck Owens Blvd, Bakersfield, CA 93308|
 |日|31|Death Valley|Las Vegas|6.5|||1|NV|3801 S Las Vegas Blvd, Las Vegas, NV 89109|
 |一|1|Zion|Kanab|2.5|1||1|AZ, UT|223 West Center Street Kanab, UT 84741 United States|
@@ -39,8 +56,8 @@
 |一|15|Independence Hall, MOMA, Time Square, Empire|New York|2||2||NJ, NY|219 Brunswick Street 1, Jersey City, NJ 07302, United States|
 |二|16|Statue Liberty, Wall street, 911|New York ||||||""|
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|New York||||||""|
-|四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA|
-|五|19|MIT, Harvard, Quincy|85 Catania||||||
+|四|18|West Point, Plymouth, Lexington|Lexington|4||1||CT, RI, MA||
+|五|19|MIT, Harvard, Quincy|85 Catania|||||||
 
 
 |景点|开放时间|游览时间|需要提前订票|备注|
@@ -67,7 +84,6 @@
 |Independence Hall|9-6|9am|No|N/A|
 |Statue Liberty|||Yes||
 |West Point|||Yes||
-||||||
 
 
 
