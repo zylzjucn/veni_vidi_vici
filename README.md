@@ -20,7 +20,7 @@
 
 最北点/Northernmost：Rapid City
 
-最大经度跨越/Maximum Longtitude Span: 51.3
+最大经度跨越/Maximum Longitude Span: 51.3
 
 最大维度跨越/Maximum Latitude Span: 8.7
 
