@@ -4,9 +4,9 @@
 
 ## 概述/Overview
 
-*起点/Start:* Fremont, CA
+起点/Start: Fremont, CA
 
-*终点/End:* Boston, MA
+终点/End: Boston, MA
 
 时间/Duration: 03.30 - 04.19 2019
 
