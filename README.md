@@ -2,7 +2,7 @@
 
 ![alt text](resources/NART_Podcast-03.png)
 
-# 概述/Overview
+## 概述/Overview
 
 起点/Start: Fremont, CA
 
@@ -10,7 +10,7 @@
 
 时间/Duration: 03.30 - 04.19 2019
 
-预计总里程/Estimated Mileage: > 4946miles
+预计总里程/Estimated Mileage: > 794946miles
 
 最西点/Westernmost：Fremont
 
@@ -33,7 +33,7 @@
 美职篮主场/NBA Homes: 8
 
 
-# 行程/Itinerary
+## 行程/Itinerary
 
 |周|日期|主题|住宿|路程|时区|NBA主场|国家公园|州|酒店|
 |--|---|----|---|---|----|-------|------|--|---|
