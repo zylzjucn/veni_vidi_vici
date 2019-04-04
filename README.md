@@ -22,7 +22,7 @@
 
 最大经度跨越/Maximum Longitude Span: 51.3
 
-最大维度跨越/Maximum Latitude Span: 8.7
+最大纬度跨越/Maximum Latitude Span: 8.7
 
 时区跨越/Time Zone Span: +3
 
