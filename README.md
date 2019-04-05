@@ -45,7 +45,7 @@
 |四|4|Arches|Grand Junction|2|||1|CO|751 Horizon Dr Grand Junction 81506 CO US|
 |五|5|Black Canyon, Denver|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
 |六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
-|日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|
+|日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|1416 North Elk Vale Road, Rapid City|
 |一|8|Badlands|Sioux Falls|9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
