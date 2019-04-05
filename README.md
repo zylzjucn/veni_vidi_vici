@@ -46,7 +46,7 @@
 |五|5|Black Canyon, Denver|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
 |六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
 |日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|
-|一|8|Badlands|Sioux City|9|1||1|NE, IA|
+|一|8|Badlands|Sioux |9|1||1|NE, IA|
 |二|9|Chicago|Chicago|8||1||IL|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Parkersburg|5||1|1|OH, WV|
