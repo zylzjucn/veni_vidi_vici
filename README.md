@@ -46,8 +46,8 @@
 |五|5|Black Canyon, Denver|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
 |六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
 |日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|1416 North Elk Vale Road, Rapid City|
-|一|8|Badlands|Sioux Falls|9|1||1|NE, IA|
-|二|9|Chicago|Chicago|8||1||IL|
+|一|8|Badlands|Sioux Falls|9|1||1|NE, IA|830 Gateway Lane Tea, SD 57064|
+|二|9|Chicago|Chicago|8||1||IL|Hyatt Place Chicago/Lombard/Oak Brook, 2340 S, Fountain Square Dr, Lombard, IL 60148|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
 |四|11|Cleveland, Cuyahoga, Akron|Parkersburg|5||1|1|OH, WV|
 |五|12|Blue Ridge|Afton|7||||VA|
