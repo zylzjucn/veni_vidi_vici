@@ -74,7 +74,7 @@
 |Wind Cave|8-4:30|1.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=197)|
 |Rushmore|||||
 |Badlands|9-17|||[Notes](http://www.meilvtong.com/viewthread.php?tid=186)|
-|Cuyahoga||||[Nodes](http://www.meilvtong.com/viewthread.php?tid=202)|
+|Cuyahoga||||[Notes](http://www.meilvtong.com/viewthread.php?tid=202)|
 |Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
 |National hall|||||
