@@ -49,7 +49,7 @@
 |一|8|Badlands|Sioux Falls|9|1||1|NE, IA|830 Gateway Lane Tea, SD 57064|
 |二|9|Chicago|Chicago|8||1||IL|Hyatt Place Chicago/Lombard/Oak Brook, 2340 S, Fountain Square Dr, Lombard, IL 60148|
 |三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
-|四|11|Cleveland, Cuyahoga, Akron|Parkersburg|5||1|1|OH, WV|
+|四|11|Cleveland, Cuyahoga, Akron|Akron|5||1|1|OH, WV|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
 |五|12|Blue Ridge|Afton|7||||VA|
 |六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Philly|2.5||1||MD, DE, PA|
