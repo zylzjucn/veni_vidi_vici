@@ -43,15 +43,15 @@
 |二|2|Bryce|Bicknell|3|||1||292 West Main Street Bicknell, UT 84715 United States|
 |三|3|Capitol Reef, Canyon Lands|Moab|4|||2||889 N Main St Moab 84532 UT US|
 |四|4|Arches|Grand Junction|2|||1|CO|751 Horizon Dr Grand Junction 81506 CO US|
-|五|5|Black Canyon, Denver|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
-|六|6|Rocky Mountain, Pike|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
+|五|5|Black Canyon|Denver|5||1|1||6865 W 103rd Ave, Westminster,CO 80021|
+|六|6|Pepsi Center, Colorado Convention Center, Red Rock AmphitheaterRocky Mountain|Torrington|3|||1|WY|1700 E Valley Rd Torrington 82240 WY US|
 |日|7|Wind Cave, Rushmore|Rapid city|4|||1|SD|1416 North Elk Vale Road, Rapid City|
 |一|8|Badlands|Sioux Falls|9|1||1|NE, IA|830 Gateway Lane Tea, SD 57064|
-|二|9|Chicago|Chicago|8||1||IL|Hyatt Place Chicago/Lombard/Oak Brook, 2340 S, Fountain Square Dr, Lombard, IL 60148|
-|三|10|Chicago, Route 66 start|Detroit|5|1|1||IN, MI|
-|四|11|Cleveland, Cuyahoga, Akron|Akron|5||1|1|OH, WV|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
-|五|12|Blue Ridge|Afton|7||||VA|
-|六|13|Shenandoah, National mall, Congress, White house, CIA|Washington|2||1|1|WA|
+|二|9|Cloud Gate, Route 66 start, United Center|Chicago|8||1||IL|Hyatt Place Chicago/Lombard/Oak Brook, 2340 S, Fountain Square Dr, Lombard, IL 60148|
+|三|10|GM Renaissance Center, Litter Caesars Center|Detroit|5|1|1||IN, MI|
+|四|11|Henry Ford Museum, Cleveland, Cuyahoga, Akron|Akron|5||1|1|OH|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
+|五|12||Afton|7||||WV, VA|
+|六|13|Shenandoah, National mall, Congress, White house, CIA, Annapolis|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Philly|2.5||1||MD, DE, PA|
 |一|15|Independence Hall, MOMA, Time Square, Empire|New York|2||2||NJ, NY|219 Brunswick Street 1, Jersey City, NJ 07302, United States|
 |二|16|Statue Liberty, Wall street, 911|New York ||||||""|
@@ -85,7 +85,8 @@
 |Statue Liberty|||Yes||
 |West Point|||Yes||
 
-
+已预订：
+Statue Liberty
 
 > 我才发现我们参观林肯纪念堂与他遇刺，是同一天。Respect
 
