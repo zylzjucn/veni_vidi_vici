@@ -49,8 +49,8 @@
 |一|8|Badlands|Sioux Falls|9|1||1|NE, IA|830 Gateway Lane Tea, SD 57064|
 |二|9|Cloud Gate, Route 66 start, United Center|Chicago|8||1||IL|Hyatt Place Chicago/Lombard/Oak Brook, 2340 S, Fountain Square Dr, Lombard, IL 60148|
 |三|10|GM Renaissance Center, Litter Caesars Center|Detroit|5|1|1||IN, MI|
-|四|11|Henry Ford Museum, Cleveland, Cuyahoga, Akron|Akron|5||1|1|OH|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
-|五|12||Afton|7||||WV, VA|
+|四|11|Henry Ford Museum, Cleveland, Akron|Akron|3||1|1|OH|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
+|五|12|Cuyahoga|Woodstock|7||||WV, VA|
 |六|13|Shenandoah, National mall, Congress, White house, CIA, Annapolis|Washington|2||1|1|WA|
 |日|14|Lincoln Memorial Hall, Penn Museum|Philly|2.5||1||MD, DE, PA|
 |一|15|Independence Hall, MOMA, Time Square, Empire|New York|2||2||NJ, NY|219 Brunswick Street 1, Jersey City, NJ 07302, United States|
