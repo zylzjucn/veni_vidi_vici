@@ -77,7 +77,7 @@
 |Cuyahoga||||[Notes](http://www.meilvtong.com/viewthread.php?tid=202)|
 |Blue ridge|24h|2|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=427)|
 |Shenandoah|24h|4|No|[Notes](http://www.meilvtong.com/viewthread.php?tid=188)|
-|National hall|||||
+|Washington DC||||[Notes](http://www.meilvtong.com/viewthread.php?tid=38)|
 |Congress|||Yes||
 |Lincoln Memorial Hall|||||
 |Penn Museum|No Monday||||
