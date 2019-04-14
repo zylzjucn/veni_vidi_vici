@@ -52,8 +52,7 @@
 |四|11|Henry Ford Museum, Cleveland, Akron|Akron|3||1||OH|2939 S Arlington Rd I-77 At Exit #120 Akron, OH 44312 United States|
 |五|12|Cuyahoga|Woodstock|7|||1|PA, WV, VA|
 |六|13|Shenandoah, National mall, Congress, White house, CIA, Annapolis|Washington|2||1|1|WA|
-|日|14|Lincoln Memorial Hall, Penn Museum|Philly|2.5||1||MD, DE|201 S. Christopher Columbus Blvd
-Philadelphia|
+|日|14|Lincoln Memorial Hall, Penn Museum|Philly|2.5||1||MD, DE|201 S. Christopher Columbus Blvd Philadelphia|
 |一|15|Independence Hall, MOMA, Time Square, Empire|New York|2||2||NJ, NY|219 Brunswick Street 1, Jersey City, NJ 07302, United States|
 |二|16|Statue Liberty, Wall street, 911|New York ||||||""|
 |三|17|Metropolitan museum, Central park, United Nations Headquarter, MSG|New York||||||""|
