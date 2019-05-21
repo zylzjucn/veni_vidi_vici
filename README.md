@@ -100,6 +100,7 @@
 |四|5.30|Crater Lake|Eugene|3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
 |五|5.31|Mount Rainier||4||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
 |六|6.1|North Cascade||3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
-|日|6.2|Seattle||2|||
-|一|6.3|Olympic||2|||
-|二|6.4||Home|13|||
+|日|6.2|Seattle||2||[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
+|一|6.3|Olympic||2||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
+|二|6.4|Lassen Volcanic||9|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
+|三|6.5||Home||3.5||
