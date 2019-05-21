@@ -94,6 +94,7 @@
 
 
 |周|日期|主题|住宿|路程|游览时间|攻略|
+|--|---|----|---|-|-|-|
 |||Red Wood||6.5|||
 |||Crater Lake||3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
 |||Eugene||3|||
