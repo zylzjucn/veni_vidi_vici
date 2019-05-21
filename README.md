@@ -85,11 +85,20 @@
 |Statue Liberty|||Yes||
 |West Point|||Yes||
 
-已预订：
-Statue Liberty
 
 > 我才发现我们参观林肯纪念堂与他遇刺，是同一天。Respect
 
 
 ![alt text](resources/title.png)
 ![alt text](resources/logo.png)
+
+
+|周|日期|主题|住宿|路程|游览时间|攻略|
+|||Red Wood||6.5|||
+|||Crater Lake||3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
+|||Eugene||3|||
+|||Mount Rainier||4||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
+|||North Cascade||3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
+|||Seattle||2|||
+|||Olympic||2|||
+||||Home|13|||
