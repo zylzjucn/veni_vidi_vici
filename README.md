@@ -95,9 +95,9 @@
 
 |周|日期|主题|住宿|路程|游览时间|攻略|
 |--|---|----|---|-|-|-|
-|二|5.28|Red Wood||6.5|||
-|三|5.29|Crater Lake||3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
-|四|5.30|Eugene||3|||
+|二|5.28|Red Wood|Redwood|6.5|||
+|三|5.29|Red Wood|Crater Lake|4|||
+|四|5.30|Crater Lake|Eugene|3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
 |五|5.31|Mount Rainier||4||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
 |六|6.1|North Cascade||3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
 |日|6.2|Seattle||2|||
