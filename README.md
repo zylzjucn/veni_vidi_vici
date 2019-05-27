@@ -95,7 +95,7 @@
 
 |周|日期|主题|住宿|路程|游览时间|攻略|
 |--|---|----|---|-|-|-|
-|二|5.28|Lassen Volcanic||4.5|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
+|二|5.28|Lassen Volcanic|1350 Pine Street, Redding, CA 96001|4.5|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
 |三|5.29|Crater Lake|Eugene|3.5, 3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
 |四|5.30|Mount Rainier||4||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
 |五|5.31|North Cascade||3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
