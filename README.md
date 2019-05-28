@@ -10,7 +10,7 @@
 
 时间/Duration: 03.30 - 04.19 2019
 
-预计总里程/Estimated Mileage: 8690km / 5400miles
+总里程/Mileage: 8690km / 5400miles
 
 最西点/Westernmost：Fremont
 
