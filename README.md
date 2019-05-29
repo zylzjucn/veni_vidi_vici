@@ -100,8 +100,8 @@
 |四|5.30|Olympic|Forks|6||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
 |五|5.31|Olympic|Seattle|3.5|||
 |六|6.1|Boeing, Key Arena, Benaroya Hall, Valve|North Cascade|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
-|日|6.2|North Cascade|Mount Rainier|3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
-|一|6.3|Mount Rainier|Portland|3|||
+|日|6.2|North Cascade|Mount Rainier|3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
+|一|6.3|Mount Rainier|Portland|3||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
 |二|6.4|Red Wood|Red Wood|5.5|||
 |三|6.5|Red Wood|Home|6.5|||
 
