@@ -97,7 +97,6 @@
 |--|---|----|---|-|-|-|
 |二|5.28|Lassen Volcanic|1350 Pine Street, Redding, CA 96001|4.5|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
 |三|5.29|Crater Lake|Eugene|3.5, 3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
-
 |四|5.30|Olympic|Forks|6||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
 |五|5.31|Olympic|Seattle|3.5|||
 |六|6.1|Boeing, Key Arena, Benaroya Hall, Valve|North Cascade|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
