@@ -25,8 +25,8 @@
 |三|5.29|Crater Lake|Eugene|3.5, 3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
 |四|5.30|Mount Rainier|Mount Rainier|5|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
 |五|5.31|Pike, Key Arena, Benaroya Hall, Valve|Seattle|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
-|六|6.1|Boeing, North Cascade|North Cascade|2|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
-|日|6.2||Olympic|Forks|6||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
+|六|6.1|Boeing, North Cascade|North Cascade|2|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=144|
+|日|6.2|Olympic|Forks|6|||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
 |一|6.3|Olympic|Seattle|3.5|||
 |二|6.4|Red Wood|Red Wood|5.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=324)|
 |三|6.5|Red Wood|Home|6.5|||
