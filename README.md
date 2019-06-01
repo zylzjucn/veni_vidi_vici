@@ -105,6 +105,7 @@
 |二|6.4|Red Wood|Red Wood|5.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=324)|
 |三|6.5|Red Wood|Home|6.5|||
 
+
 |起点|终点|景点|时间|
 |--|---|----|---|
 |Hiouchi Vistor Center|Crescent City|Howland Hill Road|45min|
