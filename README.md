@@ -1,3 +1,9 @@
+# Table of Contents
+
+> - [The Great Crossing America](https://github.com/zylzjucn/2019CrossingUS/blob/master/CrossAmerica.md)
+> - [All the Way North](https://github.com/zylzjucn/2019CrossingUS/blob/master/Seattle.md)
+
+
 # 2019CrossingUS
 
 ![alt text](resources/NART_Podcast-03.png)
@@ -91,26 +97,3 @@
 
 ![alt text](resources/title.png)
 ![alt text](resources/logo.png)
-
-
-|周|日期|主题|住宿|路程|游览时间|攻略|
-|--|---|----|---|-|-|-|
-|二|5.28|Lassen Volcanic|1350 Pine Street, Redding, CA 96001|4.5|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
-|三|5.29|Crater Lake|Eugene|3.5, 3|3|[Notes](http://www.meilvtong.com/viewthread.php?tid=195)|
-|四|5.30|Olympic|Forks|6||[Notes](http://www.meilvtong.com/viewthread.php?tid=69)|
-|五|5.31|Olympic|Seattle|3.5|||
-|六|6.1|Boeing, Key Arena, Benaroya Hall, Valve|North Cascade|2||[Notes](http://www.meilvtong.com/viewthread.php?tid=9)|
-|日|6.2|North Cascade|Mount Rainier|3.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=144)|
-|一|6.3|Mount Rainier|Portland|3||[Notes](http://www.meilvtong.com/viewthread.php?tid=56)|
-|二|6.4|Red Wood|Red Wood|5.5||[Notes](http://www.meilvtong.com/viewthread.php?tid=324)|
-|三|6.5|Red Wood|Home|6.5|||
-
-
-|起点|终点|景点|时间|
-|--|---|----|---|
-|Hiouchi Vistor Center|Crescent City|Howland Hill Road|45min|
-|||Enderts Beach Road|5min * 2|
-|||Requa Road|15min * 2|
-|||Newton B. Drury Scenic Parkway|30min|
-|||Davison Road|30min * 2|
-|||Bald Hills Road|45min * 2|
