@@ -4,7 +4,7 @@
 > - [All the Way North](https://github.com/zylzjucn/2019CrossingUS/blob/master/Seattle.md)
 
 
-# 2019CrossingUS
+# 2019 Crossing US
 
 ![alt text](resources/NART_Podcast-03.png)
 
