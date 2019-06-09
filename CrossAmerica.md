@@ -1,4 +1,4 @@
-# 2019CrossingUS
+# 2019 Crossing America
 
 ![alt text](resources/NART_Podcast-03.png)
 
