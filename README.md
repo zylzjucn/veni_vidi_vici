@@ -1,4 +1,4 @@
-# Table of Contents
+# Contents
 
 > - [The Great Crossing America](https://github.com/zylzjucn/2019CrossingUS/blob/master/CrossAmerica.md)
 > - [All the Way North](https://github.com/zylzjucn/2019CrossingUS/blob/master/Seattle.md)
