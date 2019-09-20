@@ -2,6 +2,7 @@
 
 > - [The Great Crossing America](https://github.com/zylzjucn/2019CrossingUS/blob/master/CrossAmerica.md)
 > - [All the Way North](https://github.com/zylzjucn/2019CrossingUS/blob/master/Seattle.md)
+> - [Need for speed in Tahoe](https://github.com/zylzjucn/veni_vidi_vici/blob/master/Tahoe.md)
 
 
 # 2019 Crossing US
