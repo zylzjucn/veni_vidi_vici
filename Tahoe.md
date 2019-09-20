@@ -1,3 +1,21 @@
+### 剧本：
+
+![1](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/001.gif)
+
+![2](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/002.gif)
+
+![3](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/003.gif)
+
+![4](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/004.gif)
+
+![5](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/005.gif)
+
+![6](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/006.gif)
+
+![7](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/007.gif)
+
+![8](https://github.com/zylzjucn/veni_vidi_vici/blob/master/resources/008.gif)
+
 ### 物资：
 
 |Items|Amounts|Carriers|Status|
@@ -49,5 +67,3 @@
 |一次性叉子||书中||
 |一次性杯子||书中||
 |一次性盘子||书中||
-
-### 剧本：
