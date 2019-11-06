@@ -26,7 +26,7 @@
 |||Grand Canyon South Rim|4.5||Tusayan||1|
 |||Horseshoe bend, Monument Valley, 4 corners|6|||||
 |||Mesa Verde|4.5|||||
-|||Petrified Forest|6|W||||
+|||Petrified Forest|6|W||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
 |||White Sand|3|G||||
 |||Guadalupe||||||
 |||Carlsbad Caverns|0.5|可能能与上一个合并，待查||||
