@@ -28,8 +28,8 @@
 |||Mesa Verde|4.5|||||
 |||Petrified Forest|6|W||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
 |||White Sand|3|G||||
-|||Carlsbad Caverns|0.5|||||
-|||Dallas|7.5|||||
+|||Carlsbad Caverns|0.5|||[Notes](http://www.meilvtong.com/viewthread.php?tid=330)||
+|||Dallas|7.5||||1|
 |||New Orleans|8|||||
 |||Orlando||||||
 
