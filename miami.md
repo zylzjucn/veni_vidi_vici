@@ -19,20 +19,19 @@
 
 ## 行程/Itinerary
 
-|周|日期|主题|住宿|路程|游览时间|攻略|时区|
+|周|日期|主题|路程|住宿|游览时间|攻略|时区|
 |--|---|----|---|-|-|-|-|
-|||一号公路|Bakersfield|6.5||||
-|||Death Valley, Vegas||||||
-|||Grand Canyon South Rim|||||1|
-|||Horseshoe bend, Monument Valley, 4 corners||||||
-|||Mesa Verde||||||
-|||Petrified Forest||||||
-|||White Sand||||||
+|||Route 1|Bakersfield|6.5|Bakersfield|||
+|||Death Valley, Vegas||Vegas||||
+|||Grand Canyon South Rim|4.5||Tusayan||1|
+|||Horseshoe bend, Monument Valley, 4 corners|6|||||
+|||Mesa Verde|4.5|||||
+|||Petrified Forest|6|W||||
+|||White Sand|3|G||||
 |||Guadalupe||||||
-|||Carlsbad Caverns||||||
-|||San Antonio||||||
-|||Houston||||||
-|||New Orleans||||||
+|||Carlsbad Caverns|0.5|可能能与上一个合并，待查||||
+|||Dallas|7.5|||||
+|||New Orleans|8|||||
 |||Orlando||||||
 
 
