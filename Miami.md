@@ -35,8 +35,4 @@
 
 
 
-|二|5.28|Lassen Volcanic||||[Notes](http://www.meilvtong.com/viewthread.php?tid=326)|
-
-
-
 ![Hi](resources/logo.png)
