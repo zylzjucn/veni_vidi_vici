@@ -6,9 +6,9 @@
 
 终点/End: Miami, FL 
 
-时间/Duration: 
+时间/Duration: 11.16 - 12.01 2019
 
-总里程/Mileage: miles
+总里程/Mileage: miles:
 
 国家公园/National Parks: 
 
