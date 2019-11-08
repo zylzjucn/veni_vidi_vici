@@ -27,7 +27,7 @@
 |二|19|Horseshoe bend, Monument Valley, 4 corners|6|||||
 |三|20|Mesa Verde|4.5|||||
 |四|21|Petrified Forest|6|W||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
-|五|22|White Sand|3|G||||
+|五|22|White Sand|3|G||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
 |六|23|Carlsbad Caverns|3|||[Notes](http://www.meilvtong.com/viewthread.php?tid=330)||
 |日|24|Dallas|7.5||||1|
 |一|25|New Orleans|8|||||
