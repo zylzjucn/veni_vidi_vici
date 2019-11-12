@@ -34,7 +34,7 @@
 |二|26|Orlando||||||
 |三|27|Orlando||||||
 |四|28|Miami||||[Notes](http://www.meilvtong.com/viewthread.php?tid=37)||
-|五|29|Key West||||[Notes](http://www.meilvtong.com/viewthread.php?tid=35)||
+|五|29|Key West||The Perry Hotel Key West||[Notes](http://www.meilvtong.com/viewthread.php?tid=35)||
 
 
 
