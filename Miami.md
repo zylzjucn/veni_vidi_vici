@@ -26,9 +26,9 @@
 |一|18|Grand Canyon South Rim|4.5|Tusayan|2||1|
 |二|19|Horseshoe bend|6|Petrified||||
 |三|20|Petrified Forest|5|Tucson||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
-|四|21|
-|五|22|White Sand|3|G||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
-|六|23|Carlsbad Caverns|3|||[Notes](http://www.meilvtong.com/viewthread.php?tid=330)||
+|四|21|Saguaro|5|||[Notes](http://www.meilvtong.com/viewthread.php?tid=74)||
+|五|22|White Sand, Carlsbad Caverns|3|G||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
+|六|23||7.5|Dallas||[Notes](http://www.meilvtong.com/viewthread.php?tid=330)||
 |日|24|Dallas|7.5||||1|
 |一|25|New Orleans|8|||||
 |二|26|Orlando||||||
