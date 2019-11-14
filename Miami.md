@@ -24,7 +24,7 @@
 |六|16|Route 1|6.5|Bakersfield||||
 |日|17|Death Valley, Vegas|6|Treasure island Vegas||||
 |一|18|Grand Canyon South Rim|4.5|holiday inn Tusayan|2||1|
-|二|19|Grand Canyon, Horseshoe bend, Monument Valley|6|Petrified|3|||
+|二|19|Grand Canyon, Horseshoe bend, Monument Valley|7.5|Petrified|3|||
 |三|20|Petrified Forest|5|Tucson||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
 |四|21|Saguaro|5|||[Notes](http://www.meilvtong.com/viewthread.php?tid=74)||
 |五|22|White Sand, Carlsbad Caverns|3|G||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
