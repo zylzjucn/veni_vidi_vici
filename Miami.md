@@ -21,7 +21,7 @@
 
 |周|日期|主题|路程|住宿|游览时间|攻略|时区|
 |--|---|----|---|-|-|-|-|
-|六|16|Route 1|6.5|Bakersfield||||
+|六|16|Route 1|6.5|La Quinta Inn by Wyndham Bakersfield South||||
 |日|17|Death Valley, Vegas|6|Treasure island Vegas||||
 |一|18|Grand Canyon South Rim|4.5|holiday inn Tusayan|2||1|
 |二|19|Grand Canyon, Horseshoe bend, Monument Valley|7.5|Days Inn by Wyndham Chambers Near the Petrified Forest East|3|||
