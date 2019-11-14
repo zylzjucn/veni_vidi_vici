@@ -22,7 +22,7 @@
 |周|日期|主题|路程|住宿|游览时间|攻略|时区|
 |--|---|----|---|-|-|-|-|
 |六|16|Route 1|6.5|Bakersfield||||
-|日|17|Death Valley, Vegas|6|Vegas||||
+|日|17|Death Valley, Vegas|6|Treasure island Vegas||||
 |一|18|Grand Canyon South Rim|4.5|Tusayan|2||1|
 |二|19|Horseshoe bend|6|Petrified||||
 |三|20|Petrified Forest|5|Tucson||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
