@@ -27,12 +27,12 @@
 |二|19|Grand Canyon, Horseshoe bend, Monument Valley|7.5|Days Inn by Wyndham Chambers Near the Petrified Forest East|3|||
 |三|20|Petrified Forest|5|Casino del Sol Resort Tucson||[Notes](http://www.meilvtong.com/viewthread.php?tid=77)||
 |四|21|Saguaro|5|Comfort Suites of Las Cruces I-25 North||[Notes](http://www.meilvtong.com/viewthread.php?tid=74)||
-|五|22|White Sand, Carlsbad Caverns|3|G||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
+|五|22|White Sand, Carlsbad Caverns|3|||[Notes](http://www.meilvtong.com/viewthread.php?tid=55)||
 |六|23||7.5|Dallas||[Notes](http://www.meilvtong.com/viewthread.php?tid=330)||
 |日|24|Dallas|7.5||||1|
 |一|25|New Orleans|8|||||
 |二|26|Orlando||||||
-|三|27|Orlando||||||
+|三|27|Everglades|||||[Notes](http://www.meilvtong.com/viewthread.php?tid=36)|
 |四|28|Miami||||[Notes](http://www.meilvtong.com/viewthread.php?tid=37)||
 |五|29|Key West||The Perry Hotel Key West||[Notes](http://www.meilvtong.com/viewthread.php?tid=35)||
 
