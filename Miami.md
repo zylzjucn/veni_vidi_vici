@@ -32,7 +32,7 @@
 |日|24|Dallas|7.5||||1|
 |一|25|New Orleans|8|||||
 |二|26|Orlando||||||
-|三|27|Everglades|||||[Notes](http://www.meilvtong.com/viewthread.php?tid=36)|
+|三|27|Everglades||||[Notes](http://www.meilvtong.com/viewthread.php?tid=36)||
 |四|28|Miami||||[Notes](http://www.meilvtong.com/viewthread.php?tid=37)||
 |五|29|Key West||The Perry Hotel Key West||[Notes](http://www.meilvtong.com/viewthread.php?tid=35)||
 
