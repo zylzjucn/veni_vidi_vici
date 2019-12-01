@@ -91,3 +91,42 @@
 
 ![alt text](resources/title.png)
 ![alt text](resources/logo.png)
+
+途径：
+
+Fremont
+Sequoia & Kings Canyon National Parks
+Bakersfield
+Death Valley
+Las Vegas
+Zion
+Kanab
+Bryce Canyon
+Bicknell
+Capitol reef
+Canyonlands
+Moab
+Arches
+Grand junction
+Black Canyon
+Denver
+Rocky mountain national park
+torrington
+wind cave
+mount rushmore
+rapid city
+badlands
+sioux falls
+chicago
+detroit
+cleveland
+pittsburgh
+woodstock
+washington dc
+university of delaware
+philadelphia
+New york
+west point
+plymouth
+boston
+
